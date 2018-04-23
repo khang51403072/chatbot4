@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
-import { METHODS } from 'https';
 
->>>>>>> 89e5073a1ef835016ae403598a7618c0cbadb011
 'use strict'
 
 const express = require('express')
